@@ -1,6 +1,8 @@
 # [java_9_features_example](https://github.com/nossbigg/java_9_features_example) 
 Java 9 new features example code + presentation
 
+![Slide Cover](presentation/slide-cover.jpg "Slide Cover")
+
 ## Source Code
 The source code covers the following concepts:
 - Collections Factory Helper Methods
@@ -8,7 +10,7 @@ The source code covers the following concepts:
 - Try-with-Resources Enhancements
 
 ## Presentation
-[Presentation Link](Java%209-%209%20Features%20(Presentation).pdf)
+[Presentation Link](presentation/java-9-9-features-presentation.pdf)
 
 In addition to the aforementioned concepts, the presentation covers the following concepts:
 - Java Platform Module System
