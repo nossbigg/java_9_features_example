@@ -8,6 +8,8 @@ The source code covers the following concepts:
 - Try-with-Resources Enhancements
 
 ## Presentation
+[Presentation Link](Java%209-%209%20Features%20(Presentation).pdf)
+
 In addition to the aforementioned concepts, the presentation covers the following concepts:
 - Java Platform Module System
 - Reactive Streams
